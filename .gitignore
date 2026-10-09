@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Excel / Data Output (User requested no output pushed)
+*.xlsx
+*.xls
+*.csv
+
+# Scratch / Temp files
+scratch/
+check_*.py
+inspect_*.py
+test_*.py
+parse_*.py
+*.log
+.DS_Store
+Thumbs.db
